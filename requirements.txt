@@ -1,0 +1,14 @@
+# Download CPU version of PyTorch since the deployment environment
+# is CPU only to save cost, you can change this
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.2.1+cpu
+
+streamlit
+streamlit-feedback
+watchdog
+onnxruntime
+opencv-python-headless
+torch
+torchvision
+opencensus-ext-azure
+numpy

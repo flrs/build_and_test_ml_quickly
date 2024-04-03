@@ -1,0 +1,6 @@
+[azure]
+# To log to application insights:
+# 1. Rename this file to config.toml
+# 2. Replae the ### with the values from the actual connection string. You can find it in the Azure portal
+#    under the "Overview" section of the Application Insights resource.
+application_insights_connection_str = "InstrumentationKey=###;IngestionEndpoint=###;LiveEndpoint=###"
