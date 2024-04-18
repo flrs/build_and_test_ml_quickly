@@ -88,11 +88,11 @@ The function `preprocess` in [`src/utils/preprocessing.py`](src/utils/preprocess
 
 ### 3.2 Model Inference
 
-Model inference is handled by the [`src/ml/model.py`](src/ml/model.py) module. Predictions can be made using the `predict` method of the `TrashRecognizerModel` class. The `TrashRecognizer.print_stats()` method offers an easy way to show several metadata about the model in the ONNX file.
+Model inference is handled by the [`src/ml/model.py`](src/ml/model.py) module. Predictions can be made using the `predict` method of the `TrashRecognizerModel` class. The `TrashRecognizerModel.print_stats()` method offers an easy way to show several metadata about the model in the ONNX file.
 
 ### 3.3 Image Postprocessing
 
-The task of postprocessing is to overlay the model predictions (bounding boxes and object outlines) onto the original images for display to the user. This task is taken over by `TrashRecognizer.plot_predictions()` in the [`src/ml/model.py`](src/ml/model.py) module. The functionality leverages modules from the `torchvision` module.
+The task of postprocessing is to overlay the model predictions (bounding boxes and object outlines) onto the original images for display to the user. This task is taken over by `TrashRecognizerModel.plot_predictions()` in the [`src/ml/model.py`](src/ml/model.py) module. The functionality leverages modules from the `torchvision` module.
 
 ## 4. Deploy App with Model
 
