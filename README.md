@@ -110,7 +110,7 @@ You can also deploy this app on Streamlit Community Cloud, a free platform for h
    * Add the details for your GitHub repository
    * Click "Deploy!"
 
-These steps are also outlined in the [Streamlit docs](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app)).
+These steps are also outlined in [Streamlit's docs](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app).
 
 ## 5. Collect Feedback
 
