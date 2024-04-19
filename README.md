@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./docs/assets/talk_slide.png" alt="Slide from PyData Berlin talk" />
+  <img src="./docs/assets/talk_slide.png" alt="Slide from PyData Berlin talk" width="640" height="360"/>
 </p>
 <p align="center">
   <b>From idea to production in a day:</b><br>
