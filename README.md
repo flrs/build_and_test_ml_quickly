@@ -27,7 +27,7 @@ git clone https://github.com/flrs/build_and_test_ml_quickly.git
 
 Then, go through the notebooks in the `notebooks` folder in the following order:
 
-1. [`0_prepare_dataset.ipynb`](/notebooks/0_getting_started.ipynb): Download, transform, and register a dataset in the Azure ML workspace.
+1. [`0_prepare_dataset.ipynb`](/notebooks/0_prepare_dataset.ipynb): Download, transform, and register a dataset in the Azure ML workspace.
 2. [`1_train_model.ipynb`](/notebooks/1_train_model.ipynb): Train a model using Azure Automated Machine Learning.
 
 Afterwards, read on in the [Usage](#usage) section below to learn about how to integrate the model into an app and start collecting user feedback.
