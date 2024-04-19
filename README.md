@@ -9,6 +9,8 @@
   <a href="docs/assets/Florian%20Roscheck%20–%20From%20idea%20to%20production%20in%20a%20day%20–%20Leveraging%20Azure%20ML%20and%20Streamlit%20to%20build%20and%20user%20test%20machine%20learning%20ideas%20quickly.pdf">Talk Slides</a> | <a href="#overview">Overview</a> | <a href="#getting-started">Getting Started</a> | <a href="#usage">Usage</a> | <a href="#learn-more">Learn More</a>
 </p>
 
+> How to leverage Azure ML, automated machine learning, and Streamlit to build and test machine learning apps quickly? Find out about our favorite Hackathon stack and walk away with some code to build and user-test your own machine learning ideas fast.
+
 # Overview
 
 This repository contains the code for the talk "From idea to production in a day: Leveraging Azure ML and Streamlit to build and user test machine learning ideas quickly" by [Florian Roscheck](https://www.linkedin.com/in/florianroscheck) at [PyData Berlin 2024](https://2024.pycon.de/).
