@@ -103,6 +103,15 @@ The right way to deploy the app depends on the environment. For fast deployment,
 
 While this repository does not include code for app deployment, this app has been successfully deployed in a corporate Azure cloud environment. How to succeed with app deployment in this way will be documented in a future article on the [Henkel Data & Analytics Blog](https://medium.com/henkel-data-and-analytics). The blog article series "Kickstarting Data Science Projects on Azure DevOps" explains more about how data science tasks can be automated on the Azure platform.
 
+### 4.1 Deploy App on Streamlit Community Cloud
+
+You can also deploy this app on Streamlit Community Cloud, a free platform for hosting Streamlit apps. To deploy the app, simply sign up for a Community Cloud account (or log into your existing account) at [share.streamlit.io](https://share.streamlit.io/), and:
+   * Click "New app"
+   * Add the details for your GitHub repository
+   * Click "Deploy!"
+
+These steps are also outlined in [Streamlit's docs](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app).
+
 ## 5. Collect Feedback
 
 You can setup feedback collection quickly through the following pipeline: streamlit-feedback -> Python logging -> Azure Application Insights -> Azure Dashboards. This pipeline is described in detail in this section.
