@@ -5,6 +5,9 @@
   <b>From idea to production in a day:</b><br>
   <b>Leveraging Azure ML and Streamlit to build and user test machine learning ideas quickly</b>
 </p>
+
+> How to leverage Azure ML, automated machine learning, and Streamlit to build and test machine learning apps quickly? Find out about our favorite Hackathon stack and walk away with some code to build and user-test your own machine learning ideas fast.
+
 <p align="center">
   <a href="https://www.slideshare.net/slideshow/from-idea-to-production-in-a-day-leveraging-azure-ml-and-streamlit-to-build-and-user-test-machine-learning-ideas-quickly/267443020">Talk Slides</a> | <a href="#overview">Overview</a> | <a href="#getting-started">Getting Started</a> | <a href="#usage">Usage</a> | <a href="#learn-more">Learn More</a>
 </p>
@@ -99,6 +102,15 @@ The task of postprocessing is to overlay the model predictions (bounding boxes a
 The right way to deploy the app depends on the environment. For fast deployment, experience has shown that it is a wise idea to reduce the number of interfaces where potential deployment issues can occur. Therefore, deploying the app and including the model into the deployment, in contrast to deploying the model as a separate API from the app, is a viable option.
 
 While this repository does not include code for app deployment, this app has been successfully deployed in a corporate Azure cloud environment. How to succeed with app deployment in this way will be documented in a future article on the [Henkel Data & Analytics Blog](https://medium.com/henkel-data-and-analytics). The blog article series "Kickstarting Data Science Projects on Azure DevOps" explains more about how data science tasks can be automated on the Azure platform.
+
+### 4.1 Deploy App on Streamlit Community Cloud
+
+You can also deploy this app on Streamlit Community Cloud, a free platform for hosting Streamlit apps. To deploy the app, simply sign up for a Community Cloud account (or log into your existing account) at [share.streamlit.io](https://share.streamlit.io/), and:
+   * Click "New app"
+   * Add the details for your GitHub repository
+   * Click "Deploy!"
+
+These steps are also outlined in [Streamlit's docs](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app).
 
 ## 5. Collect Feedback
 
