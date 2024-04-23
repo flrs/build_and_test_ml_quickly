@@ -6,7 +6,7 @@
   <b>Leveraging Azure ML and Streamlit to build and user test machine learning ideas quickly</b>
 </p>
 <p align="center">
-  <a href="docs/assets/Florian%20Roscheck%20–%20From%20idea%20to%20production%20in%20a%20day%20–%20Leveraging%20Azure%20ML%20and%20Streamlit%20to%20build%20and%20user%20test%20machine%20learning%20ideas%20quickly.pdf">Talk Slides</a> | <a href="#overview">Overview</a> | <a href="#getting-started">Getting Started</a> | <a href="#usage">Usage</a> | <a href="#learn-more">Learn More</a>
+  <a href="https://www.slideshare.net/slideshow/from-idea-to-production-in-a-day-leveraging-azure-ml-and-streamlit-to-build-and-user-test-machine-learning-ideas-quickly/267443020">Talk Slides</a> | <a href="#overview">Overview</a> | <a href="#getting-started">Getting Started</a> | <a href="#usage">Usage</a> | <a href="#learn-more">Learn More</a>
 </p>
 
 # Overview
